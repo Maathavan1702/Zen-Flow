@@ -1,5 +1,5 @@
 
-# Zen Flow Webpage
+# Zen Flow 
 
 **Zen Flow** is a wellness-focused webpage that helps users find balance through yoga asanas and remedies for various ailments. The site is designed to provide information on different health issues and yoga poses, along with an easy way for users to reach out via a contact form.
 
